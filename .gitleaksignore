@@ -1,0 +1,17 @@
+# .gitleaksignore for excalidraw repository
+# These Firebase API keys are from the upstream excalidraw/excalidraw project
+# Firebase API keys for web/mobile apps are intentionally public - security is handled
+# by Firebase Security Rules on the backend, not by keeping API keys secret.
+# See: https://firebase.google.com/docs/projects/api-keys
+# Generated: 2025-10-18
+
+# Production Firebase API Key (excalidraw-room-persistence)
+48924688c75aada554674b5a2bc3c752d33d3444:.env.development:13
+48924688c75aada554674b5a2bc3c752d33d3444:.env.production:12
+8104068bd5b9142f12a2d480f5d6998f49582764:.env.development:13
+8104068bd5b9142f12a2d480f5d6998f49582764:.env.production:12
+e93bbc577613a6de6bb43c40c3b57286b4994ca5:.env.development:13
+e93bbc577613a6de6bb43c40c3b57286b4994ca5:.env.production:12
+f1202adb158a339c91e548b89641b0b0dd9d1e9c:.env:7
+f1202adb158a339c91e548b89641b0b0dd9d1e9c:.env.production:3
+d0985fe67a258716e85ce5819f2bb388671f9b86:.env:5
